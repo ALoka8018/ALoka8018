@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### 📊 GitHub Stats
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ALoka8018&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **ALoka8018/ALoka8018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
