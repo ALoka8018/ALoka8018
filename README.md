@@ -90,8 +90,6 @@ I enjoy designing clean architectures, optimizing APIs, and solving complex back
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALoka8018&layout=compact&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=ALoka8018&theme=tokyonight)
-
 ---
 
 ## 🌱 Currently Learning
@@ -107,8 +105,8 @@ I enjoy designing clean architectures, optimizing APIs, and solving complex back
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_USERNAME
-- 📧 Email: your@email.com
+- 💼 LinkedIn: https://linkedin.com/in/aloka-kumar-malik-0381a6292
+- 📧 Email: kumaraloka7205@gmail.com
 
 ---
 
