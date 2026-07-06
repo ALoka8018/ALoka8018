@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=backend+developer)](https://git.io/typing-svg)
 
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ALoka8018&theme=dark)](https://git.io/streak-stats)
