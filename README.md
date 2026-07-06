@@ -3,105 +3,46 @@
 ### 📊 GitHub Stats
 [![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app?user=ALoka8018&theme=dark)](https://git.io/streak-stats)
 
-# Hi there 👋 I'm Alok
+# Hey, I'm Alok 👋
 
-🚀 Backend Developer passionate about building scalable, secure, and production-ready applications.
+I build backend systems — mostly APIs, auth flows, and the infrastructure that keeps them running without falling over at 2am. I like taking a messy problem and turning it into something clean, testable, and boring in the best way (boring means it just works).
 
-I enjoy designing clean architectures, optimizing APIs, and solving complex backend challenges. My focus is on writing maintainable code while following industry best practices.
+Lately I've been pulling in more AI work too — RAG pipelines, vector search, that kind of thing — trying to bring some of that LLM stuff into real backend products instead of just toy demos.
 
----
+## What I actually work with
 
-## 💻 Tech Stack
+**Languages:** JavaScript, Java, SQL
 
-### Languages
-- JavaScript
-- Java
-- SQL
+**Backend:** Node.js, Express, REST APIs, JWT auth, webhooks, microservices — the usual suspects, but I try to not over-engineer them
 
-### Backend
-- Node.js
-- Express.js
-- REST APIs
-- JWT Authentication
-- Webhooks
-- Microservices
+**Databases:** PostgreSQL, MySQL, MongoDB (Postgres is my default unless there's a good reason not to)
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
+**Tooling:** Sequelize, Docker, Git, Postman, AWS S3
 
-### ORM & Tools
-- Sequelize
-- Git & GitHub
-- Docker
-- Postman
-- AWS S3
+**Poking around in:** RAG apps, vector DBs, Kubernetes, distributed systems — still early days on these but enjoying the learning curve
 
-### Currently Exploring
-- AI & RAG Applications
-- Large Language Models (LLMs)
-- Vector Databases
-- Docker & Kubernetes
-- Distributed Systems
+## Stuff I've built or worked on
 
----
+- Auth & authorization systems that don't fall apart under edge cases
+- Microservices that talk to each other without becoming a debugging nightmare
+- Payment integrations
+- RAG-based chatbots
+- Background job / worker queues
+- File upload & storage pipelines
+- Notification systems across WhatsApp, SMS, and email
 
-## 🚀 What I Build
+## Right now
 
-- Enterprise Backend APIs
-- Authentication & Authorization Systems
-- Microservice Architectures
-- Payment Integrations
-- AI-powered Applications
-- RAG-based Chatbots
-- Queue & Worker Systems
-- File Upload & Storage Services
-- Notification Systems (WhatsApp, SMS, Email)
+Mostly heads-down on building production-grade backend stuff, getting more comfortable with cloud architecture at scale, and digging into AI agents and event-driven systems on the side. No grand roadmap — just picking up whatever seems worth learning next.
 
----
-
-## 📈 Current Focus
-
-- Building production-grade backend systems
-- Learning scalable cloud architecture
-- Exploring AI application development
-- Improving system performance & optimization
-
----
-
-## 💡 Development Philosophy
-
-> Write clean code.
->
-> Build scalable systems.
->
-> Optimize performance.
->
-> Never stop learning.
-
----
-
-## 📊 GitHub Stats
-
-<!-- Replace YOUR_USERNAME -->
+## GitHub stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ALoka8018&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ALoka8018&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌱 Currently Learning
-
-- Advanced System Design
-- Kubernetes
-- Event-Driven Architecture
-- AI Agents
-- RAG Systems
-- Performance Optimization
-
----
+If you're working on something backend-heavy or AI-related, feel free to reach out — always up for a good technical conversation.
 
 ## 🤝 Let's Connect
 
